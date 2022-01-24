@@ -1,0 +1,4 @@
+cd C:\Users\arpad\Documents\Internships\Ensure\Assignment1\ToDoApp-Django\venv\Scripts
+activate.bat
+cd C:\Users\arpad\Documents\Internships\Ensure\Assignment1\ToDoApp-Django\django_todo
+py manage.py runserver
